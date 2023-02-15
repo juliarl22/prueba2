@@ -1,0 +1,5 @@
+##Ignorar ficheros .bak
+*.bak
+
+##Ignorar ficheros .class
+*.class
